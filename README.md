@@ -11,7 +11,7 @@ from command line or shell run "python THUNetwork.py login username userpassword
 
 from command line or shell run "python THUNetwork.py logout" to login out
 
-#Notice
+# Notice
 Make sure your computer is connected to Tsinghua Network first!
 
 Current Version is tested on python2.7 and python3.4
